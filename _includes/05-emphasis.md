@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skillz - you know like nunchuck skillz, bow hunting skills, computer hacking skillz.  
+
+- *I is **SMART*** 
+- *I is **KIND***
+- *I is **IMPORTANT***
